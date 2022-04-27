@@ -1,0 +1,4 @@
+www.facebook.com
+www.bannedsite.com
+www.bannedsite2.com
+www.blacklist3.com

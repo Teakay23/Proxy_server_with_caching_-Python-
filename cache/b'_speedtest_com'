@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: http://ww42.speedtest.com
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Server: web01
+Date: Wed, 27 Apr 2022 13:22:08 GMT
+Connection: close
+Content-Length: 142
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://ww42.speedtest.com">here</a>.</h2>
+</body></html>
